@@ -1,15 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:7A2E00,50:FF7A00,100:FFA200&text=Funixxxxxxxyx&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Developer%20%7C%20AI%20Engineer%20%7C%20Minecraft%20Server%20Specialist&descSize=17&descAlignY=58" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:7A2E00,50:FF7A00,100:FFA200&text=Funixxxxxxxyx&fontSize=56&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Developer%20%7C%20AI-Assisted%20Development%20%7C%20Minecraft%20Server%20Specialist&descSize=16&descAlignY=58" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA200&center=true&vCenter=true&width=760&height=55&lines=AI+Engineer;Minecraft+Plugin+Developer;Server+Architecture+%26+Infrastructure;Java+Development;Gameplay+Systems+%26+Automation;Building+Production-Ready+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFA200&center=true&vCenter=true&width=720&height=45&lines=Java+Developer;Minecraft+Plugin+Developer;AI-Assisted+Development;Server+Architecture+%26+Infrastructure;Gameplay+Systems+%26+Automation" alt="Typing SVG" />
 </a>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Funixxxxxxxyx&label=PROFILE+VIEWS&color=ff8c00&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/Funixxxxxxxyx?label=FOLLOWERS&style=for-the-badge&color=FFA200&labelColor=0D1117" alt="GitHub Followers" />
 
 </div>
 
@@ -18,74 +13,34 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-Developer, AI Engineer, and Minecraft server specialist focused on building reliable,
-high-performance systems and virtual worlds.
+Developer and Minecraft server specialist focused on building reliable,
+maintainable, and production-ready systems.
 </p>
 
 <p align="center">
-I work on custom plugin development, AI-oriented solutions, server architecture,
-gameplay systems, automation, economy design, and production-ready environments
-tailored around specific technical requirements.
+I mainly work with Java, custom Minecraft plugins, server infrastructure,
+gameplay systems, databases, automation, and AI-assisted development workflows.
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7A2E00,50:FF7A00,100:FFA200" width="70%" alt="Divider" />
 </div>
 
 <br>
 
 <h2 align="center">WHAT I DO</h2>
 
-<table align="center">
-
-<tr>
-
-<td width="50%" align="center">
-
-### CUSTOM PLUGINS
-
-Custom Minecraft plugins built around specific mechanics, commands, systems, automation, and gameplay requirements.
-
-</td>
-
-<td width="50%" align="center">
-
-### AI ENGINEERING
-
-Building and experimenting with AI-powered workflows, intelligent automation, integrations, and systems designed around practical use cases.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### SERVER ARCHITECTURE
-
-Server environments designed around performance, maintainability, permissions, infrastructure, and production reliability.
-
-</td>
-
-<td width="50%" align="center">
-
-### GAMEPLAY SYSTEMS
-
-Progression, economy, rewards, automation, balancing, and interconnected gameplay systems designed for long-term use.
-
-</td>
-
-</tr>
-
-</table>
+- **Custom Plugin Development** — Building Minecraft plugins around custom mechanics, commands, systems, integrations, and gameplay requirements.
+- **Server Architecture** — Designing maintainable server environments with a focus on performance, stability, permissions, and production reliability.
+- **Gameplay Systems** — Creating progression, economy, rewards, automation, balancing, and interconnected gameplay systems.
+- **AI-Assisted Development** — Using AI as a development tool for code analysis, debugging, implementation assistance, research, documentation, and technical problem solving.
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7A2E00,50:FF7A00,100:FFA200" width="70%" alt="Divider" />
 </div>
 
 <br>
@@ -100,7 +55,6 @@ Progression, economy, rewards, automation, balancing, and interconnected gamepla
 
 <img src="https://img.shields.io/badge/JAVA-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFA200" alt="Java" />
 <img src="https://img.shields.io/badge/MAVEN-0D1117?style=for-the-badge&logo=apachemaven&logoColor=FFA200" alt="Maven" />
-<img src="https://img.shields.io/badge/INTELLIJ_IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=FFA200" alt="IntelliJ IDEA" />
 <img src="https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFA200" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQLITE-0D1117?style=for-the-badge&logo=sqlite&logoColor=FFA200" alt="SQLite" />
 <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=FFA200" alt="Git" />
@@ -111,7 +65,7 @@ Progression, economy, rewards, automation, balancing, and interconnected gamepla
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7A2E00,50:FF7A00,100:FFA200" width="70%" alt="Divider" />
 </div>
 
 <br>
@@ -120,125 +74,105 @@ Progression, economy, rewards, automation, balancing, and interconnected gamepla
 
 <div align="center">
 
-`AI Engineering`
+`Java Development`
 &nbsp;&nbsp;
 `Minecraft Plugins`
 &nbsp;&nbsp;
-`Java Development`
-
-<br><br>
-
 `Server Infrastructure`
-&nbsp;&nbsp;
-`Intelligent Automation`
-&nbsp;&nbsp;
-`Gameplay Systems`
 
 <br><br>
 
+`Gameplay Systems`
+&nbsp;&nbsp;
 `Database Integration`
 &nbsp;&nbsp;
-`Performance`
-&nbsp;&nbsp;
-`Production Environments`
+`Automation`
 
 <br><br>
 
-`Economy Design`
+`Performance`
 &nbsp;&nbsp;
 `System Architecture`
 &nbsp;&nbsp;
-`AI Integrations`
+`AI-Assisted Development`
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7A2E00,50:FF7A00,100:FFA200" width="70%" alt="Divider" />
 </div>
 
 <br>
 
-<h2 align="center">GITHUB STATISTICS</h2>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Funixxxxxxxyx&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA200&icon_color=FFA200&text_color=FFFFFF&ring_color=FF8C00" alt="GitHub Statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Funixxxxxxxyx&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFA200&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
-</div>
-
-<br>
-
-<h2 align="center">GITHUB STREAK</h2>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Funixxxxxxxyx&theme=dark&hide_border=true&background=0D1117&ring=FFA200&fire=FF7A00&currStreakLabel=FFA200&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
-</div>
-
-<br>
-
-<h2 align="center">ENGINEERING INTERESTS</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI_ENGINEERING-FFA200?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LLM_INTEGRATION-FFA200?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AUTOMATION-FFA200?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/SYSTEM_DESIGN-FFA200?style=for-the-badge&labelColor=0D1117" />
-
-<br>
-
-<img src="https://img.shields.io/badge/MINECRAFT_ENGINEERING-FFA200?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/SERVER_INFRASTRUCTURE-FFA200?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PERFORMANCE-FFA200?style=for-the-badge&labelColor=0D1117" />
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
-</div>
-
-<br>
-
-<h2 align="center">CURRENT OBJECTIVE</h2>
+<h2 align="center">AI IN MY WORKFLOW</h2>
 
 <p align="center">
-Build intelligent systems that remain fast, maintainable, scalable,
-and reliable after they leave the development environment.
+I use AI as a development assistant rather than as a replacement for engineering decisions.
+</p>
+
+- **Code Assistance** — Helping accelerate implementation and explore possible approaches.
+- **Debugging & Analysis** — Assisting with tracing issues, inspecting logic, and identifying potential edge cases.
+- **Code Review** — Supporting audits for maintainability, security, performance, and unintended behavior.
+- **Research** — Speeding up documentation research, API exploration, and technical comparisons.
+- **Documentation** — Helping structure technical notes, implementation plans, and development reports.
+
+<p align="center">
+Final architecture, implementation decisions, validation, and production testing remain part of my own development process.
 </p>
 
 <br>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7A2E00,50:FF7A00,100:FFA200" width="70%" alt="Divider" />
+</div>
 
-<sub>
-CODE. BUILD. AUTOMATE. OPTIMIZE. SHIP.
-</sub>
+<br>
+
+<h2 align="center">CURRENT FOCUS</h2>
+
+<p align="center">
+Building systems that remain fast, maintainable, scalable, and reliable
+after they leave the development environment.
+</p>
+
+<div align="center">
+
+<br>
+
+`BUILD`
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`REVIEW`
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`OPTIMIZE`
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`SHIP`
 
 </div>
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7A2E00,50:FF7A00,100:FFA200" alt="Footer" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7A2E00,50:FF7A00,100:FFA200" width="70%" alt="Divider" />
+</div>
+
+<br>
+
+<h2 align="center">CONTACT</h2>
+
+<div align="center">
+
+<a href="https://discord.com/users/288288826261110795">
+  <img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=FFA200" alt="Discord" />
+</a>
+
+<a href="https://github.com/Funixxxxxxxyx">
+  <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFA200" alt="GitHub" />
+</a>
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7A2E00,50:FF7A00,100:FFA200" alt="Footer" />
