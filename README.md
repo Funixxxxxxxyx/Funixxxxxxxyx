@@ -1,15 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:7A2E00,50:FF7A00,100:FFA200&text=Funixxxxxxxyx&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Developer%20%7C%20Minecraft%20Server%20Specialist&descSize=17&descAlignY=58" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:7A2E00,50:FF7A00,100:FFA200&text=Funixxxxxxxyx&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Developer%20%7C%20AI%20Engineer%20%7C%20Minecraft%20Server%20Specialist&descSize=17&descAlignY=58" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA200&center=true&vCenter=true&width=700&height=55&lines=Minecraft+Plugin+Developer;Server+Architecture+%26+Infrastructure;Java+Development;Gameplay+Systems+%26+Automation;Building+Production-Ready+Virtual+Worlds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFA200&center=true&vCenter=true&width=760&height=55&lines=AI+Engineer;Minecraft+Plugin+Developer;Server+Architecture+%26+Infrastructure;Java+Development;Gameplay+Systems+%26+Automation;Building+Production-Ready+Systems" alt="Typing SVG" />
 </a>
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Funixxxxxxxyx&label=PROFILE+VIEWS&color=ff8c00&style=for-the-badge" alt="Profile Views" />
-
 <img src="https://img.shields.io/github/followers/Funixxxxxxxyx?label=FOLLOWERS&style=for-the-badge&color=FFA200&labelColor=0D1117" alt="GitHub Followers" />
 
 </div>
@@ -19,14 +18,14 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-Developer and Minecraft server setup specialist focused on building reliable,
-high-performance virtual worlds.
+Developer, AI Engineer, and Minecraft server specialist focused on building reliable,
+high-performance systems and virtual worlds.
 </p>
 
 <p align="center">
-I work on custom plugin development, server architecture, gameplay systems,
-automation, economy design, and production-ready Minecraft environments
-tailored around specific technical and gameplay requirements.
+I work on custom plugin development, AI-oriented solutions, server architecture,
+gameplay systems, automation, economy design, and production-ready environments
+tailored around specific technical requirements.
 </p>
 
 <br>
@@ -40,9 +39,10 @@ tailored around specific technical and gameplay requirements.
 <h2 align="center">WHAT I DO</h2>
 
 <table align="center">
+
 <tr>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ### CUSTOM PLUGINS
 
@@ -50,7 +50,19 @@ Custom Minecraft plugins built around specific mechanics, commands, systems, aut
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
+
+### AI ENGINEERING
+
+Building and experimenting with AI-powered workflows, intelligent automation, integrations, and systems designed around practical use cases.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 
 ### SERVER ARCHITECTURE
 
@@ -58,7 +70,7 @@ Server environments designed around performance, maintainability, permissions, i
 
 </td>
 
-<td width="33%" align="center">
+<td width="50%" align="center">
 
 ### GAMEPLAY SYSTEMS
 
@@ -67,6 +79,7 @@ Progression, economy, rewards, automation, balancing, and interconnected gamepla
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -107,27 +120,35 @@ Progression, economy, rewards, automation, balancing, and interconnected gamepla
 
 <div align="center">
 
-`Minecraft Plugins`
+`AI Engineering`
 &nbsp;&nbsp;
-`Server Infrastructure`
+`Minecraft Plugins`
 &nbsp;&nbsp;
 `Java Development`
 
 <br><br>
 
-`Gameplay Systems`
+`Server Infrastructure`
 &nbsp;&nbsp;
+`Intelligent Automation`
+&nbsp;&nbsp;
+`Gameplay Systems`
+
+<br><br>
+
 `Database Integration`
 &nbsp;&nbsp;
 `Performance`
+&nbsp;&nbsp;
+`Production Environments`
 
 <br><br>
 
 `Economy Design`
 &nbsp;&nbsp;
-`Automation`
+`System Architecture`
 &nbsp;&nbsp;
-`Production Environments`
+`AI Integrations`
 
 </div>
 
@@ -157,14 +178,13 @@ Progression, economy, rewards, automation, balancing, and interconnected gamepla
 
 <br>
 
-<h2 align="center">CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">GITHUB STREAK</h2>
 
 <div align="center">
 
 <img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Funixxxxxxxyx&bg_color=0D1117&color=FFFFFF&line=FFA200&point=FF7A00&area=true&area_color=FFA200&hide_border=true&custom_title=Contribution%20Activity"
-  alt="Contribution Activity Graph"
+  src="https://streak-stats.demolab.com?user=Funixxxxxxxyx&theme=dark&hide_border=true&background=0D1117&ring=FFA200&fire=FF7A00&currStreakLabel=FFA200&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -206,25 +226,39 @@ Progression, economy, rewards, automation, balancing, and interconnected gamepla
 
 <br>
 
-<h2 align="center">DISCORD PRESENCE</h2>
+<h2 align="center">GITHUB TROPHIES</h2>
 
 <div align="center">
 
-<a href="https://discord.com/users/288288826261110795">
-  <img
-    src="https://lanyard.cnrad.dev/api/288288826261110795?theme=dark&bg=0D1117&animated=true&hideDiscrim=true&borderRadius=12px&idleMessage=Currently%20away"
-    alt="Discord Presence"
-  />
-</a>
+<img
+  src="https://github-profile-trophy.vercel.app/?username=Funixxxxxxxyx&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
+  alt="GitHub Trophies"
+/>
 
-<br><br>
+</div>
 
-<a href="https://discord.com/users/288288826261110795">
-  <img
-    src="https://img.shields.io/badge/CONTACT_ME_ON_DISCORD-FFA200?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=0D1117"
-    alt="Contact Me On Discord"
-  />
-</a>
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
+</div>
+
+<br>
+
+<h2 align="center">ENGINEERING INTERESTS</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI_ENGINEERING-FFA200?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LLM_INTEGRATION-FFA200?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/AUTOMATION-FFA200?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SYSTEM_DESIGN-FFA200?style=for-the-badge&labelColor=0D1117" />
+
+<br>
+
+<img src="https://img.shields.io/badge/MINECRAFT_ENGINEERING-FFA200?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SERVER_INFRASTRUCTURE-FFA200?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/PERFORMANCE-FFA200?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
@@ -239,8 +273,8 @@ Progression, economy, rewards, automation, balancing, and interconnected gamepla
 <h2 align="center">CURRENT OBJECTIVE</h2>
 
 <p align="center">
-Build systems that remain fast, maintainable, scalable, and enjoyable
-after they leave the development environment.
+Build intelligent systems that remain fast, maintainable, scalable,
+and reliable after they leave the development environment.
 </p>
 
 <br>
@@ -248,7 +282,7 @@ after they leave the development environment.
 <div align="center">
 
 <sub>
-CODE. BUILD. OPTIMIZE. SHIP.
+CODE. BUILD. AUTOMATE. OPTIMIZE. SHIP.
 </sub>
 
 </div>
