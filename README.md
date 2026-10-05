@@ -18,7 +18,7 @@ maintainable, and production-ready systems.
 </p>
 
 <p align="center">
-I mainly work with Java, custom Minecraft plugins, server infrastructure,
+I work with Java, custom Minecraft plugins, server infrastructure,
 gameplay systems, databases, automation, and AI-assisted development workflows.
 </p>
 
@@ -32,10 +32,49 @@ gameplay systems, databases, automation, and AI-assisted development workflows.
 
 <h2 align="center">WHAT I DO</h2>
 
-- **Custom Plugin Development** — Building Minecraft plugins around custom mechanics, commands, systems, integrations, and gameplay requirements.
-- **Server Architecture** — Designing maintainable server environments with a focus on performance, stability, permissions, and production reliability.
-- **Gameplay Systems** — Creating progression, economy, rewards, automation, balancing, and interconnected gameplay systems.
-- **AI-Assisted Development** — Using AI as a development tool for code analysis, debugging, implementation assistance, research, documentation, and technical problem solving.
+<table align="center">
+
+<tr>
+
+<td width="50%" align="center">
+
+### CUSTOM PLUGINS
+
+Building Minecraft plugins around custom mechanics, commands, systems, integrations, and gameplay requirements.
+
+</td>
+
+<td width="50%" align="center">
+
+### AI-ASSISTED DEVELOPMENT
+
+Using AI as a development assistant for implementation, analysis, debugging, research, documentation, and technical problem solving.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### SERVER ARCHITECTURE
+
+Designing maintainable server environments focused on performance, stability, permissions, infrastructure, and production reliability.
+
+</td>
+
+<td width="50%" align="center">
+
+### GAMEPLAY SYSTEMS
+
+Creating progression, economy, rewards, automation, balancing, and interconnected gameplay systems designed for long-term use.
+
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
@@ -109,14 +148,54 @@ gameplay systems, databases, automation, and AI-assisted development workflows.
 <h2 align="center">AI IN MY WORKFLOW</h2>
 
 <p align="center">
-I use AI as a development assistant rather than as a replacement for engineering decisions.
+I use AI as a development assistant to improve speed, clarity, and analysis while keeping technical decisions and validation under my control.
 </p>
 
-- **Code Assistance** — Helping accelerate implementation and explore possible approaches.
-- **Debugging & Analysis** — Assisting with tracing issues, inspecting logic, and identifying potential edge cases.
-- **Code Review** — Supporting audits for maintainability, security, performance, and unintended behavior.
-- **Research** — Speeding up documentation research, API exploration, and technical comparisons.
-- **Documentation** — Helping structure technical notes, implementation plans, and development reports.
+<table align="center">
+
+<tr>
+
+<td width="50%" align="center">
+
+### CODE ASSISTANCE
+
+Helping accelerate implementation, explore possible approaches, and reduce repetitive development work.
+
+</td>
+
+<td width="50%" align="center">
+
+### DEBUGGING & ANALYSIS
+
+Assisting with tracing issues, inspecting logic, identifying edge cases, and understanding unexpected behavior.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### CODE REVIEW
+
+Supporting audits for maintainability, security, performance, logic errors, and unintended behavior.
+
+</td>
+
+<td width="50%" align="center">
+
+### RESEARCH & DOCUMENTATION
+
+Speeding up documentation research, API exploration, technical comparisons, implementation plans, and development reports.
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 <p align="center">
 Final architecture, implementation decisions, validation, and production testing remain part of my own development process.
