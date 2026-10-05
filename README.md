@@ -197,54 +197,6 @@ Progression, economy, rewards, automation, balancing, and interconnected gamepla
 
 <br>
 
-<h2 align="center">PAC-MAN CONTRIBUTIONS</h2>
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/funixxxxxxxyx/funixxxxxxxyx/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/funixxxxxxxyx/funixxxxxxxyx/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  >
-  <img
-    alt="Pac-Man Contribution Graph"
-    src="https://raw.githubusercontent.com/funixxxxxxxyx/funixxxxxxxyx/pacman-output/pacman-contribution-graph.svg?game=pacman"
-  >
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
-</div>
-
-<br>
-
-<h2 align="center">GITHUB TROPHIES</h2>
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Funixxxxxxxyx&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7A2E00,50:FF7A00,100:FFA200" width="75%" alt="Divider" />
-</div>
-
-<br>
-
 <h2 align="center">ENGINEERING INTERESTS</h2>
 
 <div align="center">
