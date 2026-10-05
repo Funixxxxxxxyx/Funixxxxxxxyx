@@ -88,16 +88,16 @@ Creating progression, economy, rewards, automation, balancing, and interconnecte
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,idea,maven,mysql,sqlite,vscode,git,github,linux&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,idea,maven,mysql,sqlite,vscode,git,github&theme=dark" alt="Tech Stack" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/JAVA-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFA200" alt="Java" />
 <img src="https://img.shields.io/badge/MAVEN-0D1117?style=for-the-badge&logo=apachemaven&logoColor=FFA200" alt="Maven" />
+<img src="https://img.shields.io/badge/INTELLIJ_IDEA-0D1117?style=for-the-badge&logo=intellijidea&logoColor=FFA200" alt="IntelliJ IDEA" />
 <img src="https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFA200" alt="MySQL" />
 <img src="https://img.shields.io/badge/SQLITE-0D1117?style=for-the-badge&logo=sqlite&logoColor=FFA200" alt="SQLite" />
 <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=FFA200" alt="Git" />
-<img src="https://img.shields.io/badge/LINUX-0D1117?style=for-the-badge&logo=linux&logoColor=FFA200" alt="Linux" />
 
 </div>
 
@@ -111,31 +111,14 @@ Creating progression, economy, rewards, automation, balancing, and interconnecte
 
 <h2 align="center">DEVELOPMENT FOCUS</h2>
 
-<div align="center">
-
-`Java Development`
-&nbsp;&nbsp;
-`Minecraft Plugins`
-&nbsp;&nbsp;
-`Server Infrastructure`
-
-<br><br>
-
-`Gameplay Systems`
-&nbsp;&nbsp;
-`Database Integration`
-&nbsp;&nbsp;
-`Automation`
-
-<br><br>
-
-`Performance`
-&nbsp;&nbsp;
-`System Architecture`
-&nbsp;&nbsp;
-`AI-Assisted Development`
-
-</div>
+<p align="center">
+<code>Java</code> ·
+<code>Minecraft Plugins</code> ·
+<code>Server Infrastructure</code> ·
+<code>Gameplay Systems</code> ·
+<code>Automation</code> ·
+<code>AI-Assisted Development</code>
+</p>
 
 <br>
 
@@ -148,7 +131,8 @@ Creating progression, economy, rewards, automation, balancing, and interconnecte
 <h2 align="center">AI IN MY WORKFLOW</h2>
 
 <p align="center">
-I use AI as a development assistant to improve speed, clarity, and analysis while keeping technical decisions and validation under my control.
+I use AI as a development assistant to improve speed, clarity, and analysis
+while keeping technical decisions and validation under my control.
 </p>
 
 <table align="center">
@@ -198,7 +182,8 @@ Speeding up documentation research, API exploration, technical comparisons, impl
 <br>
 
 <p align="center">
-Final architecture, implementation decisions, validation, and production testing remain part of my own development process.
+Final architecture, implementation decisions, validation,
+and production testing remain part of my own development process.
 </p>
 
 <br>
@@ -212,21 +197,21 @@ Final architecture, implementation decisions, validation, and production testing
 <h2 align="center">CURRENT FOCUS</h2>
 
 <p align="center">
-Building systems that remain fast, maintainable, scalable, and reliable
-after they leave the development environment.
+Building systems that remain fast, maintainable, scalable,
+and reliable after they leave the development environment.
 </p>
 
 <div align="center">
 
 <br>
 
-`BUILD`
+<code>BUILD</code>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-`REVIEW`
+<code>REVIEW</code>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-`OPTIMIZE`
+<code>OPTIMIZE</code>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-`SHIP`
+<code>SHIP</code>
 
 </div>
 
@@ -252,6 +237,6 @@ after they leave the development environment.
 
 </div>
 
-<br>
+<br><br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7A2E00,50:FF7A00,100:FFA200" alt="Footer" />
